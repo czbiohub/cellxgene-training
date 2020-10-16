@@ -29,3 +29,8 @@ checkout [this](https://drive.google.com/file/d/1NA1VvHYtIpCUhMio7Ui9eDF2flmMpdh
 
 # data to use
 for this session let's use [Tabula Muris Senis](https://s3.console.aws.amazon.com/s3/buckets/czb-tabula-muris-senis/Data-objects/?region=us-west-2). Choose a tissue that interests you and let's have some fun :)
+
+# cellxgene-VIP: a plugin for cellxgene
+demo here: https://cellxgenevip-ms.bxgenomics.com/
+details here: https://github.com/interactivereport/cellxgene_VIP
+
